@@ -1,4 +1,3 @@
-````markdown
 # Libraries.io NPM Deprecated Packages Scraper
 
 Este projeto coleta pacotes NPM do [Libraries.io](https://libraries.io) e salva apenas os pacotes que possuem **deprecation_reason** em um arquivo `projects.json`.
