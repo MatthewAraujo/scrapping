@@ -1,0 +1,262 @@
+[
+  {
+    "name": "lodash.isequal",
+    "repository_url": "https://github.com/lodash/lodash",
+    "deprecation_reason": "This package is deprecated. Use require('node:util').isDeepStrictEqual instead."
+  },
+  {
+    "name": "lodash.template",
+    "repository_url": "https://github.com/lodash/lodash",
+    "deprecation_reason": "This package is deprecated. Use https://socket.dev/npm/package/eta instead."
+  },
+  {
+    "name": "lodash.clone",
+    "repository_url": "https://github.com/lodash/lodash",
+    "deprecation_reason": "This package is deprecated. Use structuredClone instead."
+  },
+  {
+    "name": "pkg-dir",
+    "repository_url": "https://github.com/sindresorhus/pkg-dir",
+    "deprecation_reason": "Renamed to `package-directory`."
+  },
+  {
+    "name": "request",
+    "repository_url": "https://github.com/request/request",
+    "deprecation_reason": "request has been deprecated, see https://github.com/request/request/issues/3142"
+  },
+  {
+    "name": "tslint",
+    "repository_url": "https://github.com/palantir/tslint",
+    "deprecation_reason": "TSLint has been deprecated in favor of ESLint. Please see https://github.com/palantir/tslint/issues/4534 for more information."
+  },
+  {
+    "name": "@babel/plugin-proposal-class-properties",
+    "repository_url": "https://github.com/babel/babel",
+    "deprecation_reason": "This proposal has been merged to the ECMAScript standard and thus this plugin is no longer maintained. Please use @babel/plugin-transform-class-properties instead."
+  },
+  {
+    "name": "babel-preset-es2015",
+    "repository_url": "https://github.com/babel/babel",
+    "deprecation_reason": "🙌  Thanks for using Babel: we recommend using babel-preset-env now: please read https://babeljs.io/env to update!"
+  },
+  {
+    "name": "lodash.pick",
+    "repository_url": "https://github.com/lodash/lodash",
+    "deprecation_reason": "This package is deprecated. Use destructuring assignment syntax instead."
+  },
+  {
+    "name": "lodash.omit",
+    "repository_url": "https://github.com/lodash/lodash",
+    "deprecation_reason": "This package is deprecated. Use destructuring assignment syntax instead."
+  },
+  {
+    "name": "istanbul",
+    "repository_url": "https://github.com/gotwarlost/istanbul",
+    "deprecation_reason": "This module is no longer maintained, try this instead:\n  npm i nyc\nVisit https://istanbul.js.org/integrations for other alternatives."
+  },
+  {
+    "name": "@oclif/command",
+    "repository_url": "https://github.com/oclif/command",
+    "deprecation_reason": "Package no longer supported. Contact Support at https://www.npmjs.com/support for more info."
+  },
+  {
+    "name": "@babel/plugin-proposal-object-rest-spread",
+    "repository_url": "https://github.com/babel/babel",
+    "deprecation_reason": "This proposal has been merged to the ECMAScript standard and thus this plugin is no longer maintained. Please use @babel/plugin-transform-object-rest-spread instead."
+  },
+  {
+    "name": "gm",
+    "repository_url": "https://github.com/aheckmann/gm",
+    "deprecation_reason": "The gm module has been sunset. Please migrate to an alternative. https://github.com/aheckmann/gm?tab=readme-ov-file#2025-02-24-this-project-is-not-maintained"
+  },
+  {
+    "name": "babel-eslint",
+    "repository_url": "https://github.com/babel/babel-eslint",
+    "deprecation_reason": "babel-eslint is now @babel/eslint-parser. This package will no longer receive updates."
+  },
+  {
+    "name": "node-sass",
+    "repository_url": "https://github.com/sass/node-sass",
+    "deprecation_reason": "Node Sass is no longer supported. Please use `sass` or `sass-embedded` instead."
+  },
+  {
+    "name": "@babel/plugin-proposal-optional-chaining",
+    "repository_url": "https://github.com/babel/babel",
+    "deprecation_reason": "This proposal has been merged to the ECMAScript standard and thus this plugin is no longer maintained. Please use @babel/plugin-transform-optional-chaining instead."
+  },
+  {
+    "name": "babel",
+    "repository_url": "https://github.com/babel/babel",
+    "deprecation_reason": "In 6.x, the babel package has been deprecated in favor of babel-cli. Check https://opencollective.com/babel to support the Babel maintainers"
+  },
+  {
+    "name": "react-native-vector-icons",
+    "repository_url": "https://github.com/oblador/react-native-vector-icons",
+    "deprecation_reason": "react-native-vector-icons package has moved to a new model of per-icon-family packages. See the https://github.com/oblador/react-native-vector-icons/blob/master/MIGRATION.md on how to migrate"
+  },
+  {
+    "name": "babel-preset-latest",
+    "repository_url": "https://github.com/babel/babel",
+    "deprecation_reason": "We're super 😸  excited that you're trying to use ES2017+ syntax, but instead of making more yearly presets 😭 , Babel now has a better preset that we recommend you use instead: npm install babel-preset-env --save-dev. preset-env without options will compile ES2015+ down to ES5 just like using all the presets together and thus is more future proof. It also allows you to target specific browsers so that Babel can do less work and you can ship native ES2015+ to user 😎 ! We are also in the process of releasing v7, so please give http://babeljs.io/blog/2017/09/12/planning-for-7.0 a read and help test it out in beta! Thanks so much for using Babel 🙏, please give us a follow on Twitter @babeljs for news on Babel, join slack.babeljs.io for discussion/development and help support the project at opencollective.com/babel"
+  },
+  {
+    "name": "gulp-conventional-changelog",
+    "repository_url": "https://github.com/conventional-changelog/conventional-changelog",
+    "deprecation_reason": "please use conventional-changelog directly"
+  },
+  {
+    "name": "eslint-plugin-standard",
+    "repository_url": "https://github.com/standard/eslint-plugin-standard",
+    "deprecation_reason": "standard 16.0.0 and eslint-config-standard 16.0.0 no longer require the eslint-plugin-standard package. You can remove it from your dependencies with 'npm rm eslint-plugin-standard'. More info here: https://github.com/standard/standard/issues/1316"
+  },
+  {
+    "name": "@babel/plugin-proposal-json-strings",
+    "repository_url": "https://github.com/babel/babel",
+    "deprecation_reason": "This proposal has been merged to the ECMAScript standard and thus this plugin is no longer maintained. Please use @babel/plugin-transform-json-strings instead."
+  },
+  {
+    "name": "@babel/polyfill",
+    "repository_url": "https://github.com/babel/babel",
+    "deprecation_reason": "🚨 This package has been deprecated in favor of separate inclusion of a polyfill and regenerator-runtime (when needed). See the @babel/polyfill docs (https://babeljs.io/docs/en/babel-polyfill) for more information."
+  },
+  {
+    "name": "@angular/http",
+    "repository_url": "https://github.com/angular/angular",
+    "deprecation_reason": "Package no longer supported. Use @angular/common instead, see https://angular.io/guide/deprecations#angularhttp"
+  },
+  {
+    "name": "sudo-prompt",
+    "repository_url": "https://github.com/jorangreef/sudo-prompt",
+    "deprecation_reason": "Package no longer supported. Contact Support at https://www.npmjs.com/support for more info."
+  },
+  {
+    "name": "angular",
+    "repository_url": "https://github.com/angular/angular.js",
+    "deprecation_reason": "For the actively supported Angular, see https://www.npmjs.com/package/@angular/core. AngularJS support has officially ended. For extended AngularJS support options, see https://goo.gle/angularjs-path-forward."
+  },
+  {
+    "name": "fluent-ffmpeg",
+    "repository_url": "https://github.com/fluent-ffmpeg/node-fluent-ffmpeg",
+    "deprecation_reason": "Package no longer supported. Contact Support at https://www.npmjs.com/support for more info."
+  },
+  {
+    "name": "q",
+    "repository_url": "https://github.com/kriskowal/q",
+    "deprecation_reason": "You or someone you depend on is using Q, the JavaScript Promise library that gave JavaScript developers strong feelings about promises. They can almost certainly migrate to the native JavaScript promise now. Thank you literally everyone for joining me in this bet against the odds. Be excellent to each other.\n\n(For a CapTP with native promises, see @endo/eventual-send and @endo/captp)"
+  },
+  {
+    "name": "@babel/plugin-proposal-nullish-coalescing-operator",
+    "repository_url": "https://github.com/babel/babel",
+    "deprecation_reason": "This proposal has been merged to the ECMAScript standard and thus this plugin is no longer maintained. Please use @babel/plugin-transform-nullish-coalescing-operator instead."
+  },
+  {
+    "name": "@babel/plugin-proposal-export-namespace-from",
+    "repository_url": "https://github.com/babel/babel",
+    "deprecation_reason": "This proposal has been merged to the ECMAScript standard and thus this plugin is no longer maintained. Please use @babel/plugin-transform-export-namespace-from instead."
+  },
+  {
+    "name": "@babel/plugin-proposal-numeric-separator",
+    "repository_url": "https://github.com/babel/babel",
+    "deprecation_reason": "This proposal has been merged to the ECMAScript standard and thus this plugin is no longer maintained. Please use @babel/plugin-transform-numeric-separator instead."
+  },
+  {
+    "name": "parcel-bundler",
+    "repository_url": "https://github.com/parcel-bundler/parcel",
+    "deprecation_reason": "Parcel v1 is no longer maintained. Please migrate to v2, which is published under the 'parcel' package. See https://v2.parceljs.org/getting-started/migration for details."
+  },
+  {
+    "name": "@types/classnames",
+    "repository_url": "",
+    "deprecation_reason": "This is a stub types definition. classnames provides its own type definitions, so you do not need this installed."
+  },
+  {
+    "name": "@types/chalk",
+    "repository_url": "",
+    "deprecation_reason": "This is a stub types definition for chalk (https://github.com/chalk/chalk). chalk provides its own type definitions, so you don't need @types/chalk installed!"
+  },
+  {
+    "name": "opn",
+    "repository_url": "https://github.com/sindresorhus/open",
+    "deprecation_reason": "The package has been renamed to `open`"
+  },
+  {
+    "name": "coffee-script",
+    "repository_url": "https://github.com/jashkenas/coffeescript",
+    "deprecation_reason": "CoffeeScript on NPM has moved to \"coffeescript\" (no hyphen)"
+  },
+  {
+    "name": "@types/testing-library__jest-dom",
+    "repository_url": "",
+    "deprecation_reason": "This is a stub types definition. @testing-library/jest-dom provides its own type definitions, so you do not need this installed."
+  },
+  {
+    "name": "@types/react-native",
+    "repository_url": "",
+    "deprecation_reason": "This is a stub types definition. react-native provides its own type definitions, so you do not need this installed."
+  },
+  {
+    "name": "@types/rimraf",
+    "repository_url": "",
+    "deprecation_reason": "This is a stub types definition. rimraf provides its own type definitions, so you do not need this installed."
+  },
+  {
+    "name": "chai-subset",
+    "repository_url": "https://github.com/debitoor/chai-subset",
+    "deprecation_reason": "functionality of this lib is built-in to chai now. see more details here: https://github.com/debitoor/chai-subset/pull/85"
+  },
+  {
+    "name": "lodash.isarray",
+    "repository_url": "https://github.com/lodash/lodash",
+    "deprecation_reason": "This package is deprecated. Use Array.isArray."
+  },
+  {
+    "name": "memdown",
+    "repository_url": "https://github.com/Level/memdown",
+    "deprecation_reason": "Superseded by memory-level (https://github.com/Level/community#faq)"
+  },
+  {
+    "name": "@material-ui/core",
+    "repository_url": "https://github.com/mui-org/material-ui",
+    "deprecation_reason": "Material UI v4 doesn't receive active development since September 2021. See the guide https://mui.com/material-ui/migration/migration-v4/ to upgrade to v5."
+  },
+  {
+    "name": "@types/prosemirror-gapcursor",
+    "repository_url": "",
+    "deprecation_reason": "This is a stub types definition. prosemirror-gapcursor provides its own type definitions, so you do not need this installed."
+  },
+  {
+    "name": "rollup-plugin-commonjs",
+    "repository_url": "https://github.com/rollup/rollup-plugin-commonjs",
+    "deprecation_reason": "This package has been deprecated and is no longer maintained. Please use @rollup/plugin-commonjs."
+  },
+  {
+    "name": "rollup-plugin-node-resolve",
+    "repository_url": "https://github.com/rollup/rollup-plugin-node-resolve",
+    "deprecation_reason": "This package has been deprecated and is no longer maintained. Please use @rollup/plugin-node-resolve."
+  },
+  {
+    "name": "rollup-plugin-terser",
+    "repository_url": "https://github.com/TrySound/rollup-plugin-terser",
+    "deprecation_reason": "This package has been deprecated and is no longer maintained. Please use @rollup/plugin-terser"
+  },
+  {
+    "name": "levelup",
+    "repository_url": "https://github.com/Level/levelup",
+    "deprecation_reason": "Superseded by abstract-level (https://github.com/Level/community#faq)"
+  },
+  {
+    "name": "@types/amqp-connection-manager",
+    "repository_url": "",
+    "deprecation_reason": "This is a stub types definition. amqp-connection-manager provides its own type definitions, so you do not need this installed."
+  },
+  {
+    "name": "eslint-loader",
+    "repository_url": "https://github.com/webpack-contrib/eslint-loader",
+    "deprecation_reason": "This loader has been deprecated. Please use eslint-webpack-plugin"
+  },
+  {
+    "name": "jest-serializer",
+    "repository_url": "https://github.com/facebook/jest",
+    "deprecation_reason": "Use v8.serialize and v8.deserialize directly"
+  }
+]
